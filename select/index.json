@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "TURN IT UP",
+  "base_artist": "LANA",
+  "createdAt": "2025-12-09T08:11:07.801861Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Turn It On, Turn It Up, Turn Me Loose",
+      "artist": "Dwight Yoakam",
+      "has_synced": true,
+      "path": "select/01_Turn_It_On,_Turn_It_Up,_Turn_Me_Loose_Dwight_Yoakam.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Turn It On, Turn It Up, Turn Me Loose (Remastered Version)",
+      "artist": "Dwight Yoakam",
+      "has_synced": true,
+      "path": "select/02_Turn_It_On,_Turn_It_Up,_Turn_Me_Loose_(Remastered_Version)_Dwight_Yoakam.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Turn It On, Turn It Up, Turn Me Loose (Remastered LP Version)",
+      "artist": "Dwight Yoakam",
+      "has_synced": true,
+      "path": "select/03_Turn_It_On,_Turn_It_Up,_Turn_Me_Loose_(Remastered_LP_Version)_Dwight_Yoakam.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Turn It Up",
+      "artist": "Hootie & The Blowfish",
+      "has_synced": false,
+      "path": "select/04_Turn_It_Up_Hootie_&_The_Blowfish.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Turn It Up",
+      "artist": "Marcus King",
+      "has_synced": false,
+      "path": "select/05_Turn_It_Up_Marcus_King.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Turn It Up",
+      "artist": "Busta Rhymes",
+      "has_synced": true,
+      "path": "select/06_Turn_It_Up_Busta_Rhymes.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Turn It Up (remix) / Fire It Up (clean)",
+      "artist": "Busta Rhymes",
+      "has_synced": false,
+      "path": "select/07_Turn_It_Up_(remix)___Fire_It_Up_(clean)_Busta_Rhymes.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Turn It Up (Remix)\u0000Fire It Up",
+      "artist": "Busta Rhymes",
+      "has_synced": false,
+      "path": "select/08_Turn_It_Up_(Remix)\u0000Fire_It_Up_Busta_Rhymes.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "DJ Turn It Up",
+      "artist": "Yellow Claw",
+      "has_synced": true,
+      "path": "select/09_DJ_Turn_It_Up_Yellow_Claw.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "TURN IT UP",
+      "artist": "Cochise",
+      "has_synced": true,
+      "path": "select/10_TURN_IT_UP_Cochise.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Turn It Up",
+      "artist": "Blur",
+      "has_synced": false,
+      "path": "select/11_Turn_It_Up_Blur.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Turn It Up",
+      "artist": "Nick Kamen",
+      "has_synced": true,
+      "path": "select/12_Turn_It_Up_Nick_Kamen.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Turn It Up",
+      "artist": "Simply Red",
+      "has_synced": true,
+      "path": "select/13_Turn_It_Up_Simply_Red.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Turn it Up (2008 Remastered Version)",
+      "artist": "Simply Red",
+      "has_synced": true,
+      "path": "select/14_Turn_it_Up_(2008_Remastered_Version)_Simply_Red.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Turn It Up",
+      "artist": "Fun Factory",
+      "has_synced": false,
+      "path": "select/15_Turn_It_Up_Fun_Factory.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "We Turn It Up",
+      "artist": "Oh Land",
+      "has_synced": false,
+      "path": "select/16_We_Turn_It_Up_Oh_Land.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Turn It Up",
+      "artist": "Robots In Disguise",
+      "has_synced": true,
+      "path": "select/17_Turn_It_Up_Robots_In_Disguise.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Turn it Up",
+      "artist": "Grum",
+      "has_synced": false,
+      "path": "select/18_Turn_it_Up_Grum.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Turn It Up",
+      "artist": "Anvil",
+      "has_synced": false,
+      "path": "select/19_Turn_It_Up_Anvil.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "TURN IT UP (feat. Candee & ZOT on the WAVE)",
+      "artist": "LANA",
+      "has_synced": false,
+      "path": "select/pl_01_TURN_IT_UP_(feat._Candee_&_ZOT_on_the_WAVE)_LANA.txt"
+    }
+  ]
+}
